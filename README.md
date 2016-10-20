@@ -1,6 +1,6 @@
 # Android My Contacts App
 
-This is an android app which can show (in ascendent alfabhetical order), add and delete contacts by using SqLite.
+This is an android app which can show (in ascendent alphabetical order), add and delete contacts by using SqLite.
 
 
 <img src="http://i0.wp.com/www.androidtutorialpoint.com/wp-content/uploads/2016/09/Screenshot-06-Sep-2016-12_02_59-AM.png?resize=169%2C300"\>
